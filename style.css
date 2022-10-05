@@ -1,0 +1,186 @@
+#title
+{
+    background-color: hsl(356, 100%, 66%);
+    padding: 30px 100px;
+    border-radius: 0px 0px 0px 80px;
+}
+/*navbar style*/
+.navsign
+{
+    border-radius: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    margin-left: 20px;
+}
+.signup:hover
+{
+    color: white;
+}
+.login
+{
+    color: white;
+}
+.dropdown-toggle
+{
+    color: white;
+}
+
+/* Title Box */
+.title-box
+{
+    text-align: center;
+    color: white;
+    margin: 80px;
+}
+
+.free
+{
+    color: hsl(356, 100%, 66%);
+    background-color: white;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.btn-learn
+{
+    border-radius: 50px;
+}
+.btn-learn:hover
+{
+    color: white;
+}
+.free:hover
+{
+    color: white;
+    background-color: hsl(355, 31%, 37%);
+}
+.main
+{
+    margin-bottom: 80px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+.main-caption
+{
+    margin-bottom: 80px;
+    font-size: 1rem;
+}
+/* Future Section */
+#future
+{
+    color: hsl(208, 49%, 24%);
+    padding: 70px 100px;
+}
+.imag
+{
+    height: 700px;
+    transform: translateX(250px)
+}
+.intro-card
+{
+    padding-top: 130px;
+    padding-left: 40px;
+}
+.design-title
+{
+    text-align: center;
+    
+}
+.hdr
+{
+    padding-bottom: 30px;
+}
+/* State Section */
+#state 
+{
+    background-color: hsl(208, 49%, 24%);
+    color: white;
+    padding: 70px 80px;
+    border-radius: 0px 90px;
+    height: 400px;
+}
+.state-comp
+{
+    padding-top: 100px;
+}
+.phone
+{
+    transform: translateY(-150px);
+}
+/* Free Section */
+#free
+{
+    padding: 70px 100px;
+
+}
+.laptop
+{
+    height: 700px;
+    transform: translateX(-350px)
+}
+.bottom-card
+{
+    padding-top: 180px;
+}
+#footer
+{
+    background-color: hsl(240, 10%, 16%);
+    height: 300px;
+    
+    padding: 70px 100px;
+    border-radius: 0px 80px 0px 0px;
+}
+.bottom-li
+{
+    list-style-type:none;
+}
+.btm-header
+{
+    padding-bottom: 30px;
+    color: white;
+}
+.attribution
+{
+    text-align: center;
+    color: white;
+}
+li
+{
+    color: hsl(207, 13%, 34%);
+}
+/* Sign up Page */
+.nv-bar
+{
+    background-color: hsl(356, 100%, 66%);
+}
+.signup-box
+{
+    transform: translate(600px, 100px);
+    background-color: hsl(356, 100%, 66%);
+    width: 400px;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.enter-btn
+{
+    margin-bottom: 30px;
+}
+
+.sign-title
+{
+    padding-top: 30px;
+}
+
+#login
+{
+    margin-bottom: 150px;
+}
+#signup
+{
+    margin-bottom: 200px;
+}
